@@ -11,7 +11,7 @@ Complete and stable.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(1).png)![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(2).png)![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(3).png)![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(4).png)
+![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(1).png) ![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(2).png) ![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(3).png) ![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Webp.net-resizeimage%20(4).png)
 
 ## Tech Used
 <b>Built with</b>
