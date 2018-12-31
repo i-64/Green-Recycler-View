@@ -11,10 +11,10 @@ Complete and stable.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-![Screenshot 1](https://drive.google.com/file/d/1ZfjMNW2dnSaw9PW7kW5EukIRFCpIz-R6/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1N5g-shSiQMNAol5f80GQCw_HIHHG7_d2/view?usp=sharing)
-![Screenshot 3](https://drive.google.com/file/d/1tSgy8aiuEMSIlEhe8ON32HkB2tP2b7jp/view?usp=sharing)
-![Screenshot 4](https://drive.google.com/file/d/1Izak9kiIR2hd2nFhvuOnbQFK8FdZWtPl/view?usp=sharing)
+![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Screenshot_20181231-120723.png)
+![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Screenshot_20181231-120729.png)
+![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Screenshot_20181231-120733.png)
+![](https://github.com/mrunal-ahire/Green-Recycler-View/blob/master/Screenshot_20181231-120744.png)
 
 ## Tech Used
 <b>Built with</b>
